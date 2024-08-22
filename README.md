@@ -54,8 +54,9 @@ This README documents the steps and commands used to complete the PLP Basic Git 
 7. Pushing to GitHub:
    - Pushed the committed changes to GitHub repository:
      ```
-     git push -u origin main
+     git push -u origin master
      ```
+     - It goes to a new branch master, default branch name on my computer
 
 ## Task 5: Verification
 
